@@ -1,5 +1,3 @@
-import re
-
 KEYWORDS = {
     'CANVAS', 'COLOR', 'DRAW', 'REPEAT',
     'PIXEL', 'RECT', 'LINE',
